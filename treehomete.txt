@@ -1,0 +1,7 @@
+```
+\$ tree /home/test/  
+/home/test/  
+├── dataset  
+│ └── cifar-10-python.tar.gz  
+└── resnet50.py
+```
