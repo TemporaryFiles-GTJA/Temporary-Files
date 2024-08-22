@@ -1,0 +1,19 @@
+```
+\$ kubectl logs resnet50-vgpu -f  
+device: cuda  
+Files already downloaded and verified  
+Epoch [1/20], Step [100/500] Loss: 1.6047  
+Epoch [1/20], Step [200/500] Loss: 1.4288  
+Epoch [1/20], Step [300/500] Loss: 1.3339  
+Epoch [1/20], Step [400/500] Loss: 1.5392  
+Epoch [1/20], Step [500/500] Loss: 1.1150  
+Epoch [2/20], Step [100/500] Loss: 1.1658  
+...  
+Epoch [19/20], Step [500/500] Loss: 0.2716  
+Epoch [20/20], Step [100/500] Loss: 0.2188  
+Epoch [20/20], Step [200/500] Loss: 0.4269  
+Epoch [20/20], Step [300/500] Loss: 0.3804  
+Epoch [20/20], Step [400/500] Loss: 0.2888  
+Epoch [20/20], Step [500/500] Loss: 0.2821  
+Accuracy of the model on the test images: 84.37 %
+```
