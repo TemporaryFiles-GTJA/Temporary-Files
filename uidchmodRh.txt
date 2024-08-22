@@ -1,0 +1,6 @@
+```
+\# 以默认uid: 1000为例  
+
+\$ chmod 755 -R /home/test  
+\$ chown -R 1000:1000 /home/test
+```
